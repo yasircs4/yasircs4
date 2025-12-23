@@ -16,3 +16,19 @@ I'm a UI UX Designer, Web & App developer based in Doha, Qatar.
 - 💬 Ask me about **UI/UX, Web Development, and Mobile Apps**
 - 📫 How to reach me: [https://maisra.net](https://maisra.net)
 
+
+
+```
+▉▉   │ OS ......... MacOS, Windows
+  ▉▉ │ Frameworks . React | React Native | Next.js | NestJS | Wordpress
+▉▉   │ Languages .. JavaScript | TypeScript | Node.js | PHP
+  ▉▉ │ Hobbies .... Biking | Art
+▉▉   │ Linkedin ... yassir-najeep
+  ▉▉ │ Email ...... info@maisra.net
+```
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasircs4&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasircs4&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasircs4&theme=github_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasircs4&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=yasircs4&theme=github-dark&hide_border=true) |
+| :-: | :-: |
