@@ -14,7 +14,7 @@ I'm a UI UX Designer, Web & App developer based in Doha, Qatar.
 - 🔍 Creator of [wp-plg-arabic-search-enhancement](https://github.com/yasircs4/wp-plg-arabic-search-enhancement) - Arabic Search Enhancement for WordPress.
 - 💬 Ask me about **UI/UX, Web Development, and Mobile Apps**
 - 📫 How to reach me: [https://yasirnajeep.com](https://yasirnajeep.com)
-https:///
+
 
 
 ```
